@@ -1,0 +1,31 @@
+name: flutter_stripe_subscriptions_learning
+description: Application pédagogique minimale pour apprendre Stripe et les abonnements
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase - Authentication et base de données
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+  
+  # Pour ouvrir les URLs Stripe Checkout
+  url_launcher: ^6.3.1
+  
+  # Pour gérer l'état de l'application
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
