@@ -6,16 +6,16 @@ Application pédagogique pour apprendre à intégrer des abonnements payants ave
 
 Suis les guides dans cet ordre :
 
-### 1️⃣ [Créer Firebase](01_CREER_FIREBASE.md)
+### 01 - [Créer Firebase](01_CREER_FIREBASE.md)
 Créer un projet Firebase, activer Authentication et Firestore (10 min)
 
-### 2️⃣ [Créer Stripe](02_CREER_STRIPE.md)
+### 02 - [Créer Stripe](02_CREER_STRIPE.md)
 Créer un compte Stripe, créer un produit et récupérer les clés (10 min)
 
-### 3️⃣ [Installer l'extension](03_INSTALLER_EXTENSION.md)
+### 03 - [Installer l'extension](03_INSTALLER_EXTENSION.md)
 Installer l'extension Firebase Stripe et tester l'app (15 min)
 
-### 📚 [Guide rapide](GUIDE_RAPIDE.md)
+### [Guide rapide](GUIDE_RAPIDE.md)
 Architecture, diagrammes et explications techniques
 
 ## Temps total

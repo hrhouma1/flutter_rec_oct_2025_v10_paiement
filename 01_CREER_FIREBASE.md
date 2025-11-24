@@ -82,10 +82,10 @@ Suis les instructions :
 
 ## Vérification
 
-✅ Fichier `lib/firebase_options.dart` est maintenant généré avec de vraies valeurs
-✅ Tu ne vois plus "TON_API_KEY" mais de vraies clés comme "AIzaSy..."
+- Fichier `lib/firebase_options.dart` est maintenant généré avec de vraies valeurs
+- Tu ne vois plus "TON_API_KEY" mais de vraies clés comme "AIzaSy..."
 
 ## Prochaine étape
 
-👉 **[02_CREER_STRIPE.md](02_CREER_STRIPE.md)** - Créer ton compte Stripe
+**[02_CREER_STRIPE.md](02_CREER_STRIPE.md)** - Créer ton compte Stripe
 

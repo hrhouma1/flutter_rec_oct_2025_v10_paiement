@@ -19,7 +19,7 @@
 **IMPORTANT** : En haut à droite du Dashboard, vérifie que tu vois :
 
 ```
-🔵 MODE TEST activé
+MODE TEST activé
 ```
 
 Si tu vois "Mode en production", clique dessus pour passer en **mode Test**.
@@ -58,7 +58,7 @@ Si tu vois "Mode en production", clique dessus pour passer en **mode Test**.
 5. **Copie cette clé** : `sk_test_51Abc...`
 6. **Garde-la précieusement**
 
-⚠️ **IMPORTANT** : Cette clé est secrète, ne la partage JAMAIS publiquement !
+**IMPORTANT** : Cette clé est secrète, ne la partage JAMAIS publiquement !
 
 ## 6. Mettre à jour le code Flutter
 
@@ -78,14 +78,14 @@ static const String monthlyPriceId = 'price_1234567890abcdef';
 
 ## Vérification
 
-✅ Tu as créé un compte Stripe
-✅ Tu es en MODE TEST (vérifie en haut à droite)
-✅ Tu as créé un produit "Plan Premium" à 19 €/mois
-✅ Tu as copié le Price ID
-✅ Tu as copié la Secret Key
-✅ Tu as mis à jour `subscription_service.dart` avec ton Price ID
+- Tu as créé un compte Stripe
+- Tu es en MODE TEST (vérifie en haut à droite)
+- Tu as créé un produit "Plan Premium" à 19 €/mois
+- Tu as copié le Price ID
+- Tu as copié la Secret Key
+- Tu as mis à jour `subscription_service.dart` avec ton Price ID
 
 ## Prochaine étape
 
-👉 **[03_INSTALLER_EXTENSION.md](03_INSTALLER_EXTENSION.md)** - Installer l'extension Firebase Stripe
+**[03_INSTALLER_EXTENSION.md](03_INSTALLER_EXTENSION.md)** - Installer l'extension Firebase Stripe
 

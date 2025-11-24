@@ -51,7 +51,7 @@ Laisse : products
 ```
 Change en : users
 ```
-⚠️ **IMPORTANT** : Bien mettre `users` et pas `customers` !
+**IMPORTANT** : Bien mettre `users` et pas `customers` !
 
 **Sync new users to Stripe customers**
 ```
@@ -74,7 +74,7 @@ Laisse tous les autres paramètres par défaut.
 
 1. Clique sur **"Install extension"**
 2. Un message apparaît : **"Installing extension..."**
-3. ⏳ **ATTENDS 5 MINUTES** (c'est important, ne fais rien d'autre)
+3. **ATTENDS 5 MINUTES** (c'est important, ne fais rien d'autre)
 
 L'extension va :
 - Créer des Cloud Functions
@@ -100,7 +100,7 @@ L'extension va :
    ```
    https://us-central1-TON_PROJET.cloudfunctions.net/ext-firestore-stripe-payments-handleWebhookEvents
    ```
-4. Status : **Active** ✅
+4. Status : **Active**
 
 ## 7. Lancer l'application
 
@@ -129,7 +129,7 @@ Sélectionne ton device (navigateur Chrome, émulateur Android, etc.)
 1. Clique sur **"Débloquer Premium"**
 2. Tu arrives sur l'écran Paywall
 3. Clique sur **"S'abonner maintenant"**
-4. ⏳ Attends 2-5 secondes
+4. Attends 2-5 secondes
 5. Une page Stripe Checkout s'ouvre dans ton navigateur
 
 ### Payer avec une carte de test
@@ -144,7 +144,7 @@ Sélectionne ton device (navigateur Chrome, émulateur Android, etc.)
 
 ### Vérifier l'abonnement
 1. Retourne dans l'app
-2. Le statut doit passer à **"Abonnement actif"** 🎉
+2. Le statut doit passer à **"Abonnement actif"**
 3. Le bouton change en **"Accéder aux fonctionnalités Premium"**
 4. Clique dessus pour voir l'écran Premium
 
@@ -188,13 +188,13 @@ Sélectionne ton device (navigateur Chrome, émulateur Android, etc.)
 - Vérifie que les règles Firestore sont bien publiées (étape 01)
 - Vérifie que tu es connecté dans l'app
 
-## Félicitations ! 🎉
+## Félicitations
 
 Tu as maintenant une application Flutter fonctionnelle avec :
-- ✅ Authentification Firebase
-- ✅ Abonnements Stripe
-- ✅ Synchronisation automatique
-- ✅ Paywall conditionnel
+- Authentification Firebase
+- Abonnements Stripe
+- Synchronisation automatique
+- Paywall conditionnel
 
 ## Pour aller plus loin
 
