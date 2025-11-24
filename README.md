@@ -18,6 +18,9 @@ Installer l'extension Firebase Stripe et tester l'app (15 min)
 ### [Guide rapide](GUIDE_RAPIDE.md)
 Architecture, diagrammes et explications techniques
 
+### [Diagrammes Mermaid](DIAGRAMME.md)
+Diagrammes visuels interactifs de l'architecture et des flux
+
 ## Temps total
 
 **35 minutes** pour avoir une app fonctionnelle avec abonnements Stripe.
